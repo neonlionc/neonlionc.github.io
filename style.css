@@ -9,7 +9,7 @@
 }
 
 .heading {
-    height: 100px;
+    height: 400px;
     background: darkred;
     padding: 20px;
     text-align: center;
@@ -80,57 +80,57 @@ p {
     opacity: 0.9;
 }
 .topLeftPic{
-    width: 150px;
+    width: 200px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .midLeftPic{
-    width: 150px;
+  width: 200px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .bottomLeftPic{
-    width: 150px;
+    width: 200px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .topRightPic{
-    width: 150px;
+  width: 200px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .midRightPic{
-    width: 150px;
+      width: 200px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .bottomRightPic{
-    width: 150px;
+    width: 200px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .topMidPic{
-    width: 150px;
+    width: 200px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
 
 }
 .midMidPic{
-    width: 150px;
+    width: 200px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
 
 }
 .bottomMidPic{
-    width: 150px;
+      width: 200px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
