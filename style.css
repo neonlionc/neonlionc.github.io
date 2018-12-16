@@ -75,19 +75,23 @@ p {
 }
 .leftPic{
     width: 150px;
-      height : 300px;
+      height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .rightPic{
     width: 150px;
-      height : 300px;
+      height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .midPic{
     width: 150px;
-      height : 300px;
+      height : 200px;
     background-position: center;
     opacity: 0.9;
+}
+body {
+  background-image: url("https://www.eyes-down.net/workspace/uploads/images/services-images/ed-charity-graphic-white_1.gif");
+  background-color: #cccccc;
 }
