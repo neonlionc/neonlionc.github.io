@@ -90,7 +90,13 @@ p {
       height : 200px;
     background-position: center;
     opacity: 0.9;
+
 }
+.righterPic{
+    width: 150px;
+      height : 200px;
+    background-position: right;
+    opacity: 0.9;
   html {
   background:url("https://www.eyes-down.net/workspace/uploads/images/services-images/ed-charity-graphic-white_1.gif") no-repeat center fixed;
   background-size: cover;
