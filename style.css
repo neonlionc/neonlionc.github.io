@@ -42,6 +42,15 @@ p {
     border-radius: 20px;
     padding: 10px;
 }
+.deadassSidebar {
+    width: 180px;
+    float: right;
+    background: lightblue;
+    min-height: 400px;
+    padding: 10px;
+}
+
+
 
 .content {
     min-height: 400px;
@@ -51,12 +60,11 @@ p {
 }
 
 .sidebar {
-    width: 180px;
+    width: 600;
     background: lightblue;
-    min-height: 400px;
+    min-height: 200px;
     padding: 10px;
 }
-
 .footer {
     clear: both;
     background: black;
