@@ -130,7 +130,7 @@ width: 160px;
 
 }
 .bottomMidPic{
-    width: 160px;
+      width: 160px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
@@ -191,7 +191,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin-left: 70px;
+  margin-left: 20px;
   padding-top: 23px;
   position: relative;
 }
