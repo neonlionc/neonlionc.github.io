@@ -80,57 +80,57 @@ p {
     opacity: 0.9;
 }
 .topLeftPic{
-  width: 160px;
+  width: 170px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .midLeftPic{
-  width: 160px;
+  width: 170px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .bottomLeftPic{
-width: 160px;
+  width: 170px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .topRightPic{
-width: 160px;
+  width: 170px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .midRightPic{
-width: 160px;
+  width: 170px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .bottomRightPic{
-width: 160px;
+  width: 170px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .topMidPic{
-  width: 160px;
+    width: 170px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
 
 }
 .midMidPic{
-  width: 160px;
+    width: 170px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
 
 }
 .bottomMidPic{
-      width: 160px;
+      width: 170px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
