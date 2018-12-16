@@ -97,7 +97,18 @@ p {
       height : 200px;
     background-position: right;
     opacity: 0.9;
+  }
   html {
   background:url("https://www.eyes-down.net/workspace/uploads/images/services-images/ed-charity-graphic-white_1.gif") no-repeat center fixed;
   background-size: cover;
+}
+.heading2 {
+    height: 100px;
+    background: darkblue;
+    padding: 20px;
+    text-align: center;
+    font-family: arial;
+    font-size: 22pt;
+    color: green;
+    text-shadow: 0.1em 0.1em black;
 }
