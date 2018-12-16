@@ -35,7 +35,7 @@ p {
 }
 
 .navigation {
-    height: 30px;
+    height: 60px;
     background: brown;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -68,7 +68,7 @@ p {
     padding: 10px;
 }
 .banner{
-    width: 100%;
+    width: 50%;
     background-position: center;
     opacity: 0.9;
 }
