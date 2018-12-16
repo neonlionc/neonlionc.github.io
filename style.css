@@ -73,6 +73,21 @@ p {
     background-position: center;
     opacity: 0.9;
 }
-body {
-  background-color: lightblue;
+.leftPic{
+    width: 150px;
+      height : 300px;
+    background-position: left;
+    opacity: 0.9;
+}
+.rightPic{
+    width: 150px;
+      height : 300px;
+    background-position: right;
+    opacity: 0.9;
+}
+.midPic{
+    width: 150px;
+      height : 300px;
+    background-position: center;
+    opacity: 0.9;
 }
