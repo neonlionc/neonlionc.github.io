@@ -10,7 +10,7 @@
 
 .heading {
     height: 100px;
-    background:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/VfkBGrouxijpvojvz/flying-love-pink-hearts-on-a-pink-background-with-alpha-matte-valentines-day-4k-background-loopable_skj2dxtoe_thumbnail-full01.png") no-repeat center fixed;
+    background:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/VfkBGrouxijpvojvz/flying-love-pink-hearts-on-a-pink-background-with-alpha-matte-valentines-day-4k-background-loopable_skj2dxtoe_thumbnail-full01.png") center fixed;
     padding: 20px;
     text-align: center;
     font-family: impact;
@@ -138,7 +138,7 @@ width: 160px;
 }
 
   html {
-  background:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/VfkBGrouxijpvojvz/flying-love-pink-hearts-on-a-pink-background-with-alpha-matte-valentines-day-4k-background-loopable_skj2dxtoe_thumbnail-full01.png") no-repeat center fixed;
+  background:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/VfkBGrouxijpvojvz/flying-love-pink-hearts-on-a-pink-background-with-alpha-matte-valentines-day-4k-background-loopable_skj2dxtoe_thumbnail-full01.png")  center fixed;
   background-size: cover;
 }
 .heading2 {
