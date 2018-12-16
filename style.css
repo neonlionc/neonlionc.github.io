@@ -67,3 +67,8 @@ p {
     text-align: center;
     padding: 10px;
 }
+.banner{
+    width: 100%;
+    background-position: center;
+    opacity: 0.9;
+}
