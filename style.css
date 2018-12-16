@@ -35,7 +35,7 @@ p {
 }
 
 .navigation {
-    height: 250px;
+    min-height: 250px;
     background: brown;
     margin-top: 10px;
     margin-bottom: 10px;
