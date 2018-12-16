@@ -91,7 +91,7 @@ p {
     background-position: center;
     opacity: 0.9;
 }
-body {
-  background-image: url("https://www.eyes-down.net/workspace/uploads/images/services-images/ed-charity-graphic-white_1.gif");
-  background-color: #cccccc;
+  html {
+  background:url("https://www.eyes-down.net/workspace/uploads/images/services-images/ed-charity-graphic-white_1.gif") no-repeat center fixed;
+  background-size: cover;
 }
