@@ -81,57 +81,57 @@ p {
     opacity: 0.9;
 }
 .topLeftPic{
-  width: 170px;
+      width: 190px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .midLeftPic{
-  width: 175px;
+      width: 190px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .bottomLeftPic{
-  width: 175px;
+      width: 190px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .topRightPic{
-width: 175px;
+      width: 190px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .midRightPic{
-  width: 175px;
+      width: 190px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .bottomRightPic{
-width: 175px;
+      width: 190px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .topMidPic{
-    width: 175px;
+      width: 190px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
 
 }
 .midMidPic{
-    width: 175px;
+      width: 190px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
 
 }
 .bottomMidPic{
-      width: 175px;
+      width: 190px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
