@@ -46,7 +46,14 @@ p {
     width: 180px;
     float: right;
     background: lightblue;
-    min-height: 400px;
+    min-height: 180px;
+    padding: 10px;
+}
+.deadassSidebar2 {
+    width: 180px;
+    float: right;
+    background: lightblue;
+    min-height: 180px;
     padding: 10px;
 }
 
@@ -55,7 +62,7 @@ p {
 .content {
     min-height: 400px;
     background: #ddd;
-    float :right;
+    float :left;
     width: 360px;
     padding: 10px;
 }
