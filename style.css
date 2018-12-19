@@ -68,7 +68,7 @@ p {
 }
 
 .sidebar {
-    width: 780px;
+    width: 980px;
     background: lightblue;
     min-height: 200px;
     padding: 10px;
@@ -82,8 +82,8 @@ p {
     padding: 10px;
 }
 .banner{
-  width: 600px;
-    height : 300px;
+  width: 1000px;
+    height : 500px;
     background-position: bot;
     opacity: 0.9;
 }
