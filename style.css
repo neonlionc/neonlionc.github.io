@@ -3,7 +3,7 @@
 }
 
 .wrapper {
-    width: 600px;
+    width: 1000px;
     background: #eee;
     margin: 0 auto;
 }
@@ -63,12 +63,12 @@ p {
     min-height: 590px;
     background: #ddd;
     float :left;
-    width: 360px;
+    width: 580px;
     padding: 10px;
 }
 
 .sidebar {
-    width: 580;
+    width: 780;
     background: lightblue;
     min-height: 200px;
     padding: 10px;
@@ -88,57 +88,57 @@ p {
     opacity: 0.9;
 }
 .topLeftPic{
-      width: 190px;
+      width: 256px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .midLeftPic{
-      width: 190px;
+      width: 256px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .bottomLeftPic{
-      width: 190px;
+      width: 256px;
       height : 200px;
     background-position: left;
     opacity: 0.9;
 }
 .topRightPic{
-      width: 190px;
+      width: 256px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .midRightPic{
-      width: 190px;
+        width: 256px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .bottomRightPic{
-      width: 190px;
+      width: 256px;
       height : 200px;
     background-position: right;
     opacity: 0.9;
 }
 .topMidPic{
-      width: 190px;
+      width: 256px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
 
 }
 .midMidPic{
-      width: 190px;
+        width: 256px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
 
 }
 .bottomMidPic{
-      width: 190px;
+      width: 256px;
       height : 200px;
     background-position: center;
     opacity: 0.9;
